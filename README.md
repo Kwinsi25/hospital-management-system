@@ -106,7 +106,7 @@ python manage.py runserver
 
 You can test all endpoints using the Postman collection provided.
 
-📥 **Download**: `Hospital.postman_collection.json`
+📥 **Download**: `Hospital API.postman_collection.json`
 
 ### To Import:
 
